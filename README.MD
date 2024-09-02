@@ -3,7 +3,7 @@
 <p>This is a project that shows how a search engine could be implemented using Cosine-Similarity between words, the dataset (csv file) were found on the internet and cleaned by me. 
 You can also see metrics and data about various things on the udemy regarding course enrollment.</p>
 
-<h2>To run the app simply have all the requirements found in the requirements.txt file in your environment and then run the following command:</h2>
+<p>To run the app simply have all the requirements found in the requirements.txt file in your environment and then run the following command:</p>
 
 <h2>flask --app app run</h2>
 
